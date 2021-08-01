@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ### 📈 My GitHub Stats
 
 <p align="left">
-    <img alt="rahuljaim" height="190" src="https://github-readme-stats.vercel.app/api?username=rahuljaim&show_icons=true" />
-    <img alt="rahuljaim" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljaim&layout=compact&hide=matlab&langs_count=10" />
+    <img alt="rahuljaim" height="190" width="430" src="https://github-readme-stats.vercel.app/api?username=rahuljaim&show_icons=true" />
+    <img alt="rahuljaim" height="190" width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljaim&layout=compact&hide=matlab&langs_count=10" />
 </p>
 
 ------------
