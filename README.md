@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Full Stack development
 - 💬 Ask me about problems, definitely i'll return with solutions
 - 📫 How to reach me: Many ways 😉 just follow me or Email me
-- 😄 Pronouns:  [ˈraːɦʊl ˈdʒeɪn] (**राहुल**) - नाम तो सुना होगा....😉 reallife problem 'm' can't be turned into 'n'.
+- 😄 Pronouns:  [ˈraːɦʊl ˈdʒeɪn] (**राहुल**) - नाम तो सुना होगा....😉 username problem- 'm' can't be turned into 'n'.
 - ⚡ Fun fact: If you awake then you can program. 
 
 
