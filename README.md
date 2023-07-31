@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning to be focused
+- 🌱 I’m currently learning to organize the team and deliveries also **heat** from the client.
 - 👯 I’m looking to collaborate on projects like Helping hands
 - 💬 Ask me about problems, definitely, I'll return with solutions
 - 📫 How to reach me: Many ways 😉 just follow me or Email me
-- 😄 Pronouns:  [ˈraːɦʊl ˈdʒeɪn] (**राहुल**) - नाम तो सुना होगा....😉 username problem- 'm' can't be turned into 'n'.
-- ⚡ Fun fact: If you awake then you can program. 
+- 😄 Pronouns:  [ˈraːɦʊl ˈdʒeɪn] 
+- ⚡ Fun fact: Code smell can only be improved if bandwidth is available. 
 
 
 
