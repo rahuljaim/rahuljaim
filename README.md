@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about problems, definitely, I'll return with solutions
 - 📫 How to reach me: Many ways 😉 just follow me or Email me
 - 😄 Pronouns:  [ˈraːɦʊl ˈdʒeɪn] 
-- ⚡ Fun fact: Code smell can only be improved if bandwidth is available. 
+- ⚡ Fun fact: A Code Smell, the unspeakable signs of something going wrong in your code, lets find out what they are 😅👌 
 
 
 
