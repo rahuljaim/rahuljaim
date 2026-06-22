@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ------------
 
 
-## **Please show some ❤️ by clicking on ⭐ and followMe to motivate me**
+## **Please show some ❤️ by clicking on ⭐ and follow Me to motivate me**
