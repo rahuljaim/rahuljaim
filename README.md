@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning to organize the team and deliveries also **heat** from the client.
 - 👯 I’m looking to collaborate on projects like Helping hands
 - 💬 Ask me about problems, definitely, I'll return with solutions
-- 📫 How to reach me: Many ways 😉 just follow me or Email me
+- 📫 How to reach me: Many ways 😉 just follow me or [https://rahuljain.dev/work.html](https://rahuljain.dev/work.html)
 - 😄 Pronouns:  [ˈraːɦʊl ˈdʒeɪn] 
 - ⚡ Fun fact: A Code Smell, the unspeakable signs of something going wrong in your code, lets find out what they are 😅👌 
 
