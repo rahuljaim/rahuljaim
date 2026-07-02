@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### 📈 My GitHub Stats
 
 <p align="left">
-    <img alt="rahuljaim" height="190" width="400" src="https://github-readme-stats.vercel.app/api?username=rahuljaim&show_icons=true" />
-    <img alt="rahuljaim" height="190" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljaim&layout=compact&hide=perl&langs_count=20" />
+    <img alt="rahuljaim" height="190" width="400" src="https://github-stats-extended.vercel.app/api?username=rahuljaim&show_icons=true" />
+    <img alt="rahuljaim" height="190" width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rahuljaim&layout=compact&hide=perl&langs_count=20" />
 </p>
 
 ------------
